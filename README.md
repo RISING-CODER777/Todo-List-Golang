@@ -33,5 +33,10 @@ performs all CRUD oprations
 
 Open application at http://localhost:9000
 
+
 ### Index page
+
+![](https://github.com/RISING-CODER777/Todo-List-Golang/blob/main/images/Creating%20task.png)
+
+
 
