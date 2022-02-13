@@ -36,7 +36,32 @@ Open application at http://localhost:9000
 
 ### Index page
 
-![](https://github.com/RISING-CODER777/Todo-List-Golang/blob/main/images/Creating%20task.png)
+![](https://github.com/RISING-CODER777/Todo-List-Golang/blob/main/images/index.png)
+
+### Add your todo
+ 
+ Type on the add your todo bar and then click enter.
+ 
+ ![](https://github.com/RISING-CODER777/Todo-List-Golang/blob/main/images/Creating%20task.png)
+ 
+ ### Editing your todo
+ 
+ click on the edit icon and then edit your todo and then press enter.
+ 
+ ![](https://github.com/RISING-CODER777/Todo-List-Golang/blob/main/images/edit.png)
+  
+### Deleting your todo
+
+click on the delete icon and the press ok.
+
+![](https://github.com/RISING-CODER777/Todo-List-Golang/blob/main/images/delete.png)
+
+
+### Final todo list
+
+![](https://github.com/RISING-CODER777/Todo-List-Golang/blob/main/images/final.png)
+ 
+ 
 
 
 
